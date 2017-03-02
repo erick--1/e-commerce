@@ -1,2 +1,3 @@
 # e-commerce
-This web applicacion is going to handel payment service with paypal
+This web application is going to handle payment service with paypal.
+
